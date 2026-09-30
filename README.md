@@ -4,7 +4,7 @@ Product person who builds. Six years in product and innovation roles (Labenu, KT
 
 **Start here**
 
-- [**foresight**](https://github.com/pedrosekine/foresight): Outlook on the web reduced to a calm, keyboard-driven calendar. A Chrome extension I use every day.
+- [**foresight**](https://github.com/pedrosekine/foresight): Outlook on the web reduced to a calm, keyboard-driven calendar. Chrome extension.
 - [**Humans in Context**](https://github.com/pedrosekine/designing-interactions-pre-specialization-project-humans-in-context): IT:U Designing Interactions project.
 
 **Open source**
