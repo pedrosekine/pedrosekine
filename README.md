@@ -5,7 +5,8 @@ Product person who builds. Six years in product and innovation roles (Labenu, KT
 **Start here**
 
 - [**foresight**](https://github.com/pedrosekine/foresight): Outlook on the web reduced to a calm, keyboard-driven calendar. Chrome extension.
-- [**Humans in Context**](https://github.com/pedrosekine/designing-interactions-pre-specialization-project-humans-in-context): IT:U Designing Interactions project.
+- [**omarchy-student**](https://github.com/pedrosekine/omarchy-student): Pomodoro and deadline tracker for Omarchy, growing into a daily note an agent reads and answers.
+- [**Humans in Context**](https://github.com/pedrosekine/working-with-agents): a playbook for delegating work to agentic coding tools, distilled from practitioner interviews (IT:U Designing Interactions).
 
 **Open source**
 
