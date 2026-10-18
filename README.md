@@ -4,9 +4,9 @@ Product person who builds. Six years in product and innovation roles (Labenu, KT
 
 **Start here**
 
-- [**omarchy-student**](https://github.com/pedrosekine/omarchy-student): a daily page for students on Omarchy. You write the day in a blank sheet inside the shell, and an agent you call on reads it and answers in the margin. Deadlines, tasks and focus sessions live in the same notes, with a dashboard that works them across every day. Keyboard-first, plain markdown underneath (Obsidian reads the same files), and private by construction: the agent sees only what you send, and runs only when you ask. In daily use through my semester.
+- [**Longhand**](https://github.com/pedrosekine/longhand): first-class Omarchy note-taking and collaboration with agents. You write the day by hand in a blank sheet inside the shell, and an agent you call on reads only what you send it and answers in the margin. Deadlines, tasks and focus sessions live in the same plain-markdown notes (Obsidian reads the same files), with a dashboard across every day, a Pomodoro timer and rebindable keys. Keyboard-first, and private by construction. In daily use through my semester.
 - [**foresight**](https://github.com/pedrosekine/foresight): Outlook on the web reduced to a calm, keyboard-driven calendar. Chrome extension.
-- [**Humans in Context**](https://github.com/pedrosekine/working-with-agents): a playbook for delegating work to agentic coding tools, distilled from practitioner interviews (IT:U Designing Interactions).
+- [**Humans in Context**](https://github.com/pedrosekine/working-with-agents): a playbook for delegating work to agentic coding tools, distilled from nine practitioner interviews in the first half of 2026. Team project, IT:U Designing Interactions; I wrote the playbook. Heuristics from an exploratory study, not validated rules, and the tools move fast.
 - [**Night Pharmacy**](https://github.com/pedrosekine/robotic-night-pharmacy): after-hours pharmacy prototype. An xArm6 picks boxed medicine using ArUco vision and an Arduino height sensor (ROS 2, MoveIt 2). Team project, IT:U.
 
 **Open source**
