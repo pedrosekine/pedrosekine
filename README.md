@@ -1,6 +1,6 @@
 ### Hi, I'm Pedro 👋
 
-Product person who builds. Six years in product and innovation roles (Labenu, KTM, Lenzing), an MSc in Innovation and Product Management (FH OÖ, 2026), and now an MSc in Interdisciplinary Computing, Designing Interactions, at [IT:U](https://it-u.at) in Linz.
+Product person who builds. Six years in product and innovation roles (Labenu, KTM, Lenzing), an MSc in Innovation and Product Management (FHOÖ), and now an MSc in Interdisciplinary Computing, at [IT:U](https://it-u.at) in Linz.
 
 **Start here**
 
